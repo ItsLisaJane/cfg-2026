@@ -5,7 +5,7 @@ Let's just try another line OK?
 
 #### The quarterly results look great!
 
--Revenue was off the chart
--Profits were higher than ever.
+- Revenue was off the chart
+- Profits were higher than ever.
 
-*Everything* is going to *plan**
+*Everything* is going to **plan**
