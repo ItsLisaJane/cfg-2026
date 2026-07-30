@@ -1,7 +1,5 @@
 Hey this is my first day with my CFG students :)
-
 I will add another line : )))
-
 Let's just try another line OK?
 
 
@@ -12,5 +10,3 @@ Let's just try another line OK?
 
 *Everything* is going to **plan**
 
-
-Alan, I added all those, regards Lisa
